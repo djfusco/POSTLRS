@@ -1,0 +1,5 @@
+---
+$config-version: 1 # Tells the CDN how to interpret this file
+name: My Fancy Library
+description: A semi-long description of what this library does
+type: javascript # Available types: 'web-component', 'javascript', 'stylesheet', 'font', 'images', 'other'. Defaults to 'unknown'
