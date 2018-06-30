@@ -1,2 +1,2 @@
 # POSTLRS test added for S3 - local - IP subnet - open
-# Trying new webhook
+# Trying new webhook - it likes json
