@@ -1,1 +1,1 @@
-# POSTLRS test added for S3 - local - IP subnet
+# POSTLRS test added for S3 - local - IP subnet - open
